@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindNearBy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_place_name">Default Place Name</string>
+    <string name="permission_required_text">Permission Required</string>
+</resources>
