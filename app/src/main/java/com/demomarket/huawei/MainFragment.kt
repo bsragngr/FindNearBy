@@ -125,7 +125,6 @@ class MainFragment : Fragment(), OnMapReadyCallback {
         val request = NearbySearchRequest()
         val location = Coordinate(lat, lng)
         request.location = location
-        request.query = "Istanbul"
         request.radius = 5000
         request.hwPoiType = hwLocationType
         request.language = "en"
